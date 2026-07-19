@@ -5,7 +5,6 @@ type: dataset
 version: 1.0.0
 date-released: "2026-07-18"
 license: CC-BY-4.0
-# TODO: doplňte skutečná jména, ORCID a afiliace členů týmu
 authors:
   - family-names: "KOVAR"
     given-names: "STANISLAV"
