@@ -6,18 +6,22 @@ version: 1.0.0
 date-released: "2026-07-18"
 license: CC-BY-4.0
 authors:
-  - family-names: "KOVAR"
-    given-names: "STANISLAV"
+  - family-names: "Kovar"
+    given-names: "Stanislav"
     orcid: "https://orcid.org/0000-0001-7264-150X"
-    affiliation: "Tomas Bata University in Zlín"
-  - family-names: "STRAJTOVA"
-    given-names: "ELISKA"
-  - family-names: "ZEDNIKOVIC"
-    given-names: "KRISTIAN"
-  - family-names: "MAIR"
-    given-names: "DOMINIK"
-  - family-names: "VALOUCH"
-    given-names: "JAN"
+    affiliation: "Tomas Bata University in Zlin"
+  - family-names: "Strajtova"
+    given-names: "Eliska"
+    affiliation: "Tomas Bata University in Zlin"
+  - family-names: "Zednikovic"
+    given-names: "Kristian"
+    affiliation: "Tomas Bata University in Zlin"
+  - family-names: "Mair"
+    given-names: "Dominik"
+    affiliation: "University of Innsbruck"
+  - family-names: "Valouch"
+    given-names: "Jan"
+    affiliation: "Tomas Bata University in Zlin"
 keywords:
   - electromagnetic compatibility
   - artificial intelligence
