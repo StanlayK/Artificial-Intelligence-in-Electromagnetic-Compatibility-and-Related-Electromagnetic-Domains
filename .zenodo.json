@@ -3,12 +3,12 @@
   "description": "Curated and annotated corpus of 285 research articles on artificial intelligence in electromagnetic compatibility and adjacent electromagnetic domains (123 core-layer + 162 adjacent-layer articles), with a two-layer taxonomy, per-article annotations (core claim, results, limitations), and an analysis workbook. Accompanies the review article 'Artificial Intelligence in Electromagnetic Compatibility and Related Electromagnetic Domains: A Systematic Review'.",
   "upload_type": "dataset",
   "license": "cc-by-4.0",
-  "creators": [
+    "creators": [
     {"name": "Kovar, Stanislav", "affiliation": "Tomas Bata University in Zlin", "orcid": "0000-0001-7264-150X"},
-    {"name": "Strajtova, Eliska"},
-    {"name": "Zednikovic, Kristian"},
-    {"name": "Mair, Dominik"},
-    {"name": "Valouch, Jan"}
+    {"name": "Strajtova, Eliska", "affiliation": "Tomas Bata University in Zlin"},
+    {"name": "Zednikovic, Kristian", "affiliation": "Tomas Bata University in Zlin"},
+    {"name": "Mair, Dominik", "affiliation": "University of Innsbruck"},
+    {"name": "Valouch, Jan", "affiliation": "Tomas Bata University in Zlin"}
   ],
   "keywords": ["electromagnetic compatibility", "artificial intelligence", "machine learning", "systematic review", "shielding", "signal integrity"]
 }
