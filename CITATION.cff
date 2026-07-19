@@ -25,5 +25,7 @@ keywords:
   - systematic review
   - shielding
   - signal integrity
-# doi: 10.5281/zenodo.XXXXXXX   # doplnit po archivaci na Zenodo
+version: 1.0.1
+date-released: "2026-07-19"
+doi: 10.5281/zenodo.21438210
 repository-code: "https://github.com/StanlayK/Artificial-Intelligence-in-Electromagnetic-Compatibility-and-Related-Electromagnetic-Domains"
