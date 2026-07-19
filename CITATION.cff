@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "AI in EMC: A Systematic Literature Corpus"
+type: dataset
+version: 1.0.0
+date-released: "2026-07-18"
+license: CC-BY-4.0
+# TODO: doplňte skutečná jména, ORCID a afiliace členů týmu
+authors:
+  - family-names: "PŘÍJMENÍ-1"
+    given-names: "JMÉNO-1"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Tomas Bata University in Zlín"
+  - family-names: "PŘÍJMENÍ-2"
+    given-names: "JMÉNO-2"
+  - family-names: "PŘÍJMENÍ-3"
+    given-names: "JMÉNO-3"
+  - family-names: "PŘÍJMENÍ-4"
+    given-names: "JMÉNO-4"
+  - family-names: "PŘÍJMENÍ-5"
+    given-names: "JMÉNO-5"
+keywords:
+  - electromagnetic compatibility
+  - artificial intelligence
+  - machine learning
+  - systematic review
+  - shielding
+  - signal integrity
+# doi: 10.5281/zenodo.XXXXXXX   # doplnit po archivaci na Zenodo
+repository-code: "https://github.com/StanlayK/Artificial-Intelligence-in-Electromagnetic-Compatibility-and-Related-Electromagnetic-Domains"
